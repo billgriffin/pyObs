@@ -1,0 +1,6 @@
+0;
+1;near1
+2;near2
+3;near3
+4;near4
+5;near5

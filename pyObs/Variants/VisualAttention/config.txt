@@ -1,0 +1,8 @@
+# 1 = True, 0 = False
+new_round_at_new_day = 0
+
+# observation interval for time
+timer_interval = 6
+ 
+# when observation count reaches 200, no more observation can be recorded at current round, the coder needs to increase the round value manually
+max_observation_per_round = 200

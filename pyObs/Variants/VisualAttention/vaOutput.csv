@@ -1,0 +1,5 @@
+time,observer,class_id,round_id,observation_id,#children present,site,activity,child_id,isPresent,target1,VR1,Affect1,target2,VR2,Affect2,target3,VR3,Affect3,target4,VR4,Affect4
+08/06/17 13:42:08,Coder 2,102,1,1,2,room,Lunch,child2,1,child1,1,3,,0,0,,0,0,,0,0
+08/06/17 15:42:27,Coder 2,102,1,2,2,room,Lunch,child3,1,child4,1,1,,0,0,,0,0,,0,0
+08/06/17 16:05:31,Coder 2,103,1,1,2,hall,Breakfast,child1,1,child3,2,1,,0,0,,0,0,,0,0
+08/06/17 16:10:32,Coder 3,105,1,1,3,room,Lunch,child3,1,child1,1,3,child2,2,1,,0,0,,0,0

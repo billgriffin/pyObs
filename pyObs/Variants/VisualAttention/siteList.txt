@@ -1,0 +1,6 @@
+0,room
+1,hall
+2,inside
+3,front
+4,back
+5,outside

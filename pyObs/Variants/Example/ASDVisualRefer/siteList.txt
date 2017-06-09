@@ -1,0 +1,4 @@
+0;room1
+1;room2
+3;frontyard
+4;backyard

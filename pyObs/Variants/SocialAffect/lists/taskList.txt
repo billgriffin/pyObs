@@ -1,0 +1,11 @@
+0;
+1;Routine Care
+2;Brief Verbal
+3;Nurturing
+4;Instructn/Dyad
+5;Discipline
+6;Play
+7;Agonistic
+8;Sol-Engaged
+9;Sol-Unoccupied
+10;Other 

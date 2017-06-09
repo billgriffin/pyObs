@@ -1,0 +1,11 @@
+0;
+1;Breakfast
+2;Lunch
+3;Snack
+4;Free Choice
+5;Large Grp 
+6;Small Grp 
+7;Playgrp Free
+8;Playgrp Structure
+9;Transition 
+10;Other

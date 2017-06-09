@@ -1,0 +1,7 @@
+# If: interactions/nearest neighbor observation: use 30; provides 15 second window
+# If: affect use: 60
+# Note: these should be the same
+
+panel_length = 30
+maxcount = 30
+

@@ -1,0 +1,15 @@
+0,
+1,Breakfast
+2,Lunch
+3,Snack
+4,Free Choice
+5,Large Grp (Teacher focus)
+6,Small Grp (Teacher led )
+7,Playgrp Free Choice
+8,Playgrp Group Activity
+9,Transition 
+10,CRoom Music
+11,CRoom Movement/Dance
+12,CRoom Indoor Playgrd
+13,Nap
+14,Other

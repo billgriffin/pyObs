@@ -1,0 +1,11 @@
+0;
+1;Solitary play
+2;Small group play
+3;Large group play
+4;Conflict
+5;Instruction
+6;Manipulatives
+7;Digging
+8;Figure play
+9;Onlooking
+10;Singing

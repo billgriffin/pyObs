@@ -1,0 +1,4 @@
+0;
+1;[P]ositive
+2;[O]Neutral
+3;[N]egative
